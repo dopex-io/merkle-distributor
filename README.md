@@ -1,20 +1,24 @@
-# @uniswap/merkle-distributor
+# Merkle Distributor
 
-[![Tests](https://github.com/Uniswap/merkle-distributor/workflows/Tests/badge.svg)](https://github.com/Uniswap/merkle-distributor/actions?query=workflow%3ATests)
-[![Lint](https://github.com/Uniswap/merkle-distributor/workflows/Lint/badge.svg)](https://github.com/Uniswap/merkle-distributor/actions?query=workflow%3ALint)
+> Forked from https://github.com/Uniswap/merkle-distributor
 
-# Local Development
+A Merkle Distributor contract used for airdrops.
 
-The following assumes the use of `node@>=10`.
+## Local Development
 
-## Install Dependencies
+### Perquisites
+
+- Node 12+
+- Yarn v1
+
+### Install Dependencies
 
 `yarn`
 
-## Compile Contracts
+### Compile Contracts
 
 `yarn compile`
 
-## Run Tests
+### Run Tests
 
 `yarn test`
